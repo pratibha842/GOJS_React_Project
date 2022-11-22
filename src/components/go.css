@@ -1,0 +1,9 @@
+.diagram-component {
+    width: auto;
+    height: 500px;
+    border: solid 1px black;
+    background-color: white;
+    margin: 20px 20px;
+    text-align: center;
+  }
+
